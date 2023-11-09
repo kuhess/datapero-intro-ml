@@ -9,7 +9,7 @@ Cette présentation a été faite pour le meetup [Dat'apéro](https://www.meetup
 
 ## Développement
 
-Ce projet utilise [Volta](volta.sh) pour la gestion des outils JS (node, yarn).
+Ce projet utilise [Volta](https://volta.sh/) pour la gestion des outils JS (node, yarn).
 
 ### Commandes
 
